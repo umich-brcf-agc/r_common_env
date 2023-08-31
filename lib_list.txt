@@ -1,0 +1,9 @@
+optparse
+XML
+tidyverse
+plyr
+ggplot2
+ggrepel
+pheatmap
+RColorBrewer
+stringi
