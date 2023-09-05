@@ -1,5 +1,6 @@
 optparse
 XML
+yaml
 tidyverse
 plyr
 ggplot2
